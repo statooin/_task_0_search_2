@@ -1,0 +1,34 @@
+        _               _   _               _                
+   __ _| |__   ___  ___| |_| |__  _   _ ___| |_ ___ _ __ ___ 
+  / _` | '_ \ / _ \/ __| __| '_ \| | | / __| __/ _ \ '__/ __|
+ | (_| | | | | (_) \__ \ |_| |_) | |_| \__ \ ||  __/ |  \__ \
+  \__, |_| |_|\___/|___/\__|_.__/ \__,_|___/\__\___|_|  |___/
+  |___/                                                      
+  
+  
+                       ---                                     
+                    -        --                             
+                --( /     \ )XXXXXXXXXXXXX                   
+            --XXX(   O   O  )XXXXXXXXXXXXXXX-              
+           /XXX(       U     )        XXXXXXX\               
+         /XXXXX(              )--   XXXXXXXXXXX\             
+        /XXXXX/ (      O     )   XXXXXX   \XXXXX\
+        XXXXX/   /            XXXXXX   \   \XXXXX----        
+        XXXXXX  /          XXXXXX         \  ----  -         
+---     XXX  /          XXXXXX      \           ---        
+  --  --  /      /\  XXXXXX            /     ---=         
+    -        /    XXXXXX              '--- XXXXXX         
+      --\/XXX\ XXXXXX                      /XXXXX         
+        \XXXXXXXXX                        /XXXXX/
+         \XXXXXX                         /XXXXX/         
+           \XXXXX--  /                -- XXXX/       
+            --XXXXXXX---------------  XXXXX--         
+               \XXXXXXXXXXXXXXXXXXXXXXXX-            
+                 --XXXXXXXXXXXXXXXXXX-
+
+
+flag{wh0_***_*****_*****_*************_*****_******_****_*****}
+
+first part of flag:
+flag{wh0
+next:  find-me-as-full-word
