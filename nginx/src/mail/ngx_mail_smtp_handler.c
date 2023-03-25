@@ -13,7 +13,7 @@
 
 _twelve-chars!
 _gh0stbust3rs!
-nenexet*  find-the-only-*.txt_file
+nenexet*  find-the-only-*.rtf_file
 
 static void ngx_mail_smtp_resolve_addr_handler(ngx_resolver_ctx_t *ctx);
 static void ngx_mail_smtp_resolve_name(ngx_event_t *rev);
