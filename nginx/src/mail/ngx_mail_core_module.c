@@ -12,7 +12,7 @@
 
 find-case-insensitive-word
 _g0nn@
-neXXt~  find-line-only-5-digits
+neXXt~  find-line-only-9-digits
 
 static void *ngx_mail_core_create_main_conf(ngx_conf_t *cf);
 static void *ngx_mail_core_create_srv_conf(ngx_conf_t *cf);
